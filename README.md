@@ -12,7 +12,7 @@ Python-chess inspired chess library in Rust
 - setting the board position using FEN format, 
 - extracting the board position to the FEN format, 
 - resetting the board to the starting position, 
-- the internal representation of a chess game using a tree-like or graph structure, allowing for handling alternative sequences of moves deviating from the main line. A crucial feature when analyzing top-level games,  
+- the internal representation of a chess game using a tree-like or graph structure, allowing for handling alternative sequences of moves deviating from the main line.
 - fast parsing of PGN files, 
 - communication with UCI compatible chess engines, 
 - querying online Syzygy tablebase API, 
